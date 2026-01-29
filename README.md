@@ -8,15 +8,15 @@
 
 
 
-Шаг 1
+# Шаг 1
 ![Шаг1](screenshots/1.png)
 
 
 
-Шаг 2 
+# Шаг 2 
 ![Шаг2](screenshots/2.png)
 
 
 
-Шаг 3
+# Шаг 3
 ![Шаг3](screenshots/3.png)
